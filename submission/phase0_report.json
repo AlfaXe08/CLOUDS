@@ -1,0 +1,24 @@
+{
+  "phase": "0",
+  "environment": {
+    "cloud_shell": true
+  },
+  "python": {
+    "version": "3.12.3",
+    "ok": true
+  },
+  "gcloud": {
+    "account": "thomasd0803@gmail.com",
+    "project": "plated-course-511417-c5",
+    "error": null
+  },
+  "docker": {
+    "version": "Docker version 29.8.2, build 7fc2dff",
+    "present": true
+  },
+  "git": {
+    "remote": "https://github.com/AlfaXe08/CLOUDS.git",
+    "is_github": true,
+    "slug": "AlfaXe08/CLOUDS"
+  }
+}
