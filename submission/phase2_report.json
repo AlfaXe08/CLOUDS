@@ -1,0 +1,30 @@
+{
+  "phase": "2",
+  "environment": {
+    "colab": true
+  },
+  "attention": {
+    "naive_ms": 292.249,
+    "vectorized_ms": 1.205,
+    "speedup": 242.53
+  },
+  "threads": {
+    "1": 2849.181,
+    "2": 2435.795,
+    "4": 2557.68,
+    "8": 2422.061
+  },
+  "devices": {
+    "cpu_ms": 495874.8,
+    "gpu_ms": 12506.1
+  },
+  "training": {
+    "steps": 2000,
+    "final_loss": 1.5097,
+    "param_count": 4935680
+  },
+  "sample": "\nThat counted I be wise.\n\nProffice:\nIf trusons it was, not all unely our vetuol,\nBut to you. But go, my love, thing once, for you\nswomers, if such that serverlgeant with Bown this:\nToo first his is is,",
+  "model": {
+    "gcs_url": "https://storage.googleapis.com/plated-course-511417-c5-eurecomgpt/model.safetensors"
+  }
+}
